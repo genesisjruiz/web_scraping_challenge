@@ -1,2 +1,3 @@
 # web_scraping_challenge
-This project combines web scraping and data analysis techniques to extract Mars news articles' titles and preview text, alongside analyzing Mars weather data, using automated browsing, Beautiful Soup, and Pandas to gain insights into Mars' climate and news updates.
+
+This project delves into Mars exploration using web scraping and data analysis techniques. The first part focuses on scraping titles and preview text from Mars news articles, while the second part involves analyzing Mars weather data. The project utilizes automated browsing, Beautiful Soup, and Pandas to extract and analyze data, aiming to gain insights into Mars' climate and stay updated with Mars news.
